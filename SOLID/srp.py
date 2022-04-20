@@ -1,4 +1,4 @@
-# problem
+# wrong
 class Journal:
   def __init__(self):
     self.entries = []
