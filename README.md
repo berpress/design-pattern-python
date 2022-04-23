@@ -10,7 +10,7 @@ design pattern
 
 
 ## Patterns
-1. Builder
+1. [Builder](https://github.com/berpress/design-pattern-python/tree/main/patterns/builder) 
 
 
 ### Description 
