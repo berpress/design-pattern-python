@@ -11,6 +11,7 @@ design pattern
 
 ## Patterns
 1. [Builder](https://github.com/berpress/design-pattern-python/tree/main/patterns/builder) 
+2. [Factory] (https://github.com/berpress/design-pattern-python/tree/main/patterns/factory) 
 
 
 ### Description 
