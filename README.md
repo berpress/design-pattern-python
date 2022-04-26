@@ -11,7 +11,10 @@ design pattern
 
 ## Patterns
 1. [Builder](https://github.com/berpress/design-pattern-python/tree/main/patterns/builder) 
-2. [Factory] (https://github.com/berpress/design-pattern-python/tree/main/patterns/factory) 
+2. [Factory](https://github.com/berpress/design-pattern-python/tree/main/patterns/factory) 
+3. [Adapter](https://github.com/berpress/design-pattern-python/tree/main/patterns/adapter) 
+4. [Decorator](https://github.com/berpress/design-pattern-python/tree/main/patterns/decorator)
+5. [Facade](https://github.com/berpress/design-pattern-python/tree/main/patterns/facade) 
 
 
 ### Description 
