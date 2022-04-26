@@ -15,11 +15,8 @@ design pattern
 3. [Adapter](https://github.com/berpress/design-pattern-python/tree/main/patterns/adapter) 
 4. [Decorator](https://github.com/berpress/design-pattern-python/tree/main/patterns/decorator)
 5. [Facade](https://github.com/berpress/design-pattern-python/tree/main/patterns/facade) 
+6. [State](https://github.com/berpress/design-pattern-python/tree/main/patterns/state)
+7. [Template Method](https://github.com/berpress/design-pattern-python/tree/main/patterns/template)
+7. [Strategy](https://github.com/berpress/design-pattern-python/tree/main/patterns/strategy)
 
-
-### Description 
-**Builder** 
-Builder pattern builds a complex object using simple objects and using a step by step approach. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
-
-A Builder class builds the final object step by step. This builder is independent of other objects.
 
